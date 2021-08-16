@@ -31,12 +31,24 @@ before start: follow the link below
 * firebase authentication: https://firebase.flutter.dev/docs/auth/overview/    
 
 main page: google login button    
-
 <img src = "https://user-images.githubusercontent.com/88701071/129515008-6b8fed70-16e6-4512-840b-621a868137b7.png" width="30%" height="30%">  
 
 login result:    
 <img src = "https://user-images.githubusercontent.com/88701071/129516720-f6b0c416-c3a0-4952-ba44-05d9f72b8631.jpg" width="30%" height="30%">     
 you can see your profile, name, and email in the main page    
 ***
+
+#### 4. firebase_database_sample
+before start: follow the link below
+* add firebase to flutter app: https://firebase.google.com/docs/flutter/setup?platform=android    
+* firebase authentication: https://firebase.flutter.dev/docs/auth/overview/    
+* firestore: https://firebase.flutter.dev/docs/firestore/overview    
+
+
+<img src = "https://user-images.githubusercontent.com/88701071/129582469-b0b99176-e2fc-4693-9793-0b49e6782cce.png" width="30%" height="30%">
+<img src = "https://user-images.githubusercontent.com/88701071/129583322-afbe511c-d62d-4de0-bff4-334eedcff82e.jpg" width="30%" height="30%">        
+you can upload posts        
+
+
 
 
